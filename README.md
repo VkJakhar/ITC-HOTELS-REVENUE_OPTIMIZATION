@@ -1,7 +1,6 @@
+# ITC Hotels Revenue Optimization with Power BI
 
-ITC Hotels Revenue Optimization with Power BI
-
-About ITC Hotels
+## About ITC Hotels
 ITC Hotels is one of India’s leading luxury hotel chains, renowned for its commitment to responsible luxury, sustainability, and world-class hospitality. With properties like ITC Maurya (New Delhi) and ITC Grand Chola (Chennai), the brand integrates green building practices, renewable energy, and waste management solutions while offering a premium guest experience.
 
 # Problem Statement
@@ -15,7 +14,7 @@ The goal is to create an interactive, multi-page Power BI dashboard for real-tim
 
 # Key Findings & Insights
 
-1. Financial Overview & Revenue Performance
+# 1. Financial Overview & Revenue Performance
 
 Total Revenue – ₹2.0bn with 50.3% MoM growth and an exceptional 1390.8% WoW growth.
 
@@ -83,7 +82,7 @@ Volatility Trend – Continuous fluctuations in cancellation pattern seen over M
 
 # Recommendations for Improvement
 
-1. Reduce Cancellations with Targeted Policies
+## 1. Reduce Cancellations with Targeted Policies
 
 Insight: Cancellation rate is very high (24.83%), especially in Elite and Premium categories.
 
@@ -95,7 +94,7 @@ Send timely reminder notifications and provide easy rescheduling options.
 
 Offer incentives (like free breakfast or late checkout) for non-cancelled bookings.
 
-2. Improve Weekday Occupancy through Business Travel Packages
+## 2. Improve Weekday Occupancy through Business Travel Packages
 
 Insight: Occupancy is much higher on weekends (55.57%) than weekdays (38.49%).
 
@@ -107,7 +106,7 @@ Offer flexible check-in/check-out for work-from-hotel customers.
 
 Promote “Workation” offers in metro cities like Mumbai and Delhi.
 
-3. Maximize Revenue by Focusing on Elite Room Class
+## 3. Maximize Revenue by Focusing on Elite Room Class
 
 Insight: Elite rooms generate the highest revenue (₹0.66bn), yet ALOS is short (2.4 days).
 
@@ -119,11 +118,11 @@ Upsell to Elite rooms via last-minute upgrades.
 
 Highlight Elite features prominently on the website and in marketing.
 
-4. Drive More Advance Bookings (2–4 Day Window)
+## 4. Drive More Advance Bookings (2–4 Day Window)
 
 Insight: Maximum revenue comes from bookings made 2–4 days in advance; steep drop after that.
 
-Action:
+# Action:
 
 Run limited-time offers valid only 3 days before check-in.
 
