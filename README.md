@@ -4,7 +4,7 @@ ITC Hotels Revenue Optimization with Power BI
 About ITC Hotels
 ITC Hotels is one of India’s leading luxury hotel chains, renowned for its commitment to responsible luxury, sustainability, and world-class hospitality. With properties like ITC Maurya (New Delhi) and ITC Grand Chola (Chennai), the brand integrates green building practices, renewable energy, and waste management solutions while offering a premium guest experience.
 
-Problem Statement
+# Problem Statement
 
 ITC Hotels operates multiple properties with diverse room categories and varying occupancy rates. The company seeks deeper insights into:
 Financial performance & revenue composition
@@ -13,7 +13,7 @@ Occupancy rate fluctuations
 Cancellations & lost revenue
 The goal is to create an interactive, multi-page Power BI dashboard for real-time insights and data-driven decision-making.
 
-Key Findings & Insights
+# Key Findings & Insights
 
 1. Financial Overview & Revenue Performance
 
@@ -29,7 +29,7 @@ Top Cities by Revenue – Mumbai dominates with ₹0.56bn, followed by Delhi (�
 
 Best Performing Properties – ITC Exotica (₹0.37bn) and ITC Palace (₹0.36bn) are the top revenue generators.
 
-2) Occupancy & Capacity Performance :-
+# 2) Occupancy & Capacity Performance :-
 
 Overall Occupancy Rate – 43.5%, with 12.7% WoW growth but slight -0.12% MoM decline.
 
@@ -43,7 +43,7 @@ Day-wise Occupancy – Weekends (55.57%) significantly outperform weekdays (38.4
 
 Weekly Occupancy – Peak occupancy noted in Week 22 and 28, both above 46%, while dips observed in Weeks 30–31.
 
-3) Room Category Performance & Booking Insight :-
+# 3) Room Category Performance & Booking Insight :-
 
 Average Length of Stay (ALOS) – 2.4 days, indicating short-to-mid stay trends across properties.
 
@@ -59,7 +59,7 @@ Short-Stay Properties – ITC City, Palace, and Seasons report the shortest ALOS
 
 Balanced ALOS Across Room Classes – All room types across high-performing properties show consistent stay patterns (~2.7 days)
 
-4) Cancellations & Lost Revenue Analysis :-
+# 4) Cancellations & Lost Revenue Analysis :-
 
 Total Cancelled Bookings – 33.42K cancellations observed during the period.
 
@@ -81,7 +81,7 @@ Room Class Impact – Highest revenue loss seen in Elite and Premium categories 
 
 Volatility Trend – Continuous fluctuations in cancellation pattern seen over May–July.
 
-Recommendations for Improvement
+# Recommendations for Improvement
 
 1. Reduce Cancellations with Targeted Policies
 
@@ -133,6 +133,6 @@ Use AI-based nudges (like "only 2 rooms left!") to create urgency.
 
 
 
-Conclusion
+# Conclusion
 
 This Power BI project provides real-time insights into ITC Hotels’ revenue, occupancy, and cancellations. The findings help in strategic pricing, customer engagement, and operational optimization to drive higher profitability and guest satisfaction.
