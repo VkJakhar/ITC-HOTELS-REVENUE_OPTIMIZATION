@@ -66,15 +66,15 @@ Cancellation Rate – High at 24.83%, indicating 1 in every 4 bookings is being 
 
 MoM & WoW Trends – Slight MoM decline (-0.75%) but WoW cancellations increased by 2.14%.
 
-Total Revenue Lost – Over ₹199.18M in revenue lost due to cancellations.
+Total Revenue Lost – Over ₹298.77M in revenue lost due to cancellations.
 
 Top Properties Affected –
 
-ITC Exotica lost ₹12M,
+ITC Exotica lost ₹18M,
 
-ITC Palace ₹11.9M,
+ITC Palace ₹18M,
 
-ITC City ₹11M.
+ITC City ₹17M.
 
 Room Class Impact – Highest revenue loss seen in Elite and Premium categories across most properties.
 
